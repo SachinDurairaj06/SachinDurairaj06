@@ -5,7 +5,7 @@
 </p>
 
 ## 🎓 B.Tech CSE (AI/ML) | SRM IST, Chennai  
-CGPA: 8.91 • Aspiring AI Engineer & Problem Solver  
+CGPA: 8.99 • Aspiring AI Engineer & Problem Solver  
 
 ---
 
@@ -14,9 +14,7 @@ CGPA: 8.91 • Aspiring AI Engineer & Problem Solver
 ![C/C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![Julia](https://img.shields.io/badge/-Julia-A26946?style=for-the-badge&logo=julia&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)    
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
@@ -27,8 +25,8 @@ CGPA: 8.91 • Aspiring AI Engineer & Problem Solver
 ## 🏆 Highlights  
 - **Research:** ARA 2025 (Trainium 2.0), GSoC Proposal (Turing.jl)  
 - **Hackathons:**  
-  🥈 HackKarnataka (Quantum Cryptography)  
-  🥈 AI For Bharat (AWS)  
+  🥈 HackKarnataka (Quantum Cryptography)  {Finalist}
+  🥈 AI For Bharat (AWS)  {Semi-Finalist}
   🥈 SIH 2025 (Cattle Breed Detection)  
 - **Open Source:** Contributions to [ArviZ.jl](https://github.com/arviz-devs/arviz)  
 - **LeetCode:** 40+ problems solved (C++)  
