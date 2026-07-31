@@ -29,7 +29,7 @@ CGPA: 8.99 • Aspiring AI Engineer & Problem Solver
   🥈 AI For Bharat (AWS)  {Semi-Finalist}
   🥈 SIH 2025 (Cattle Breed Detection)  
 - **Open Source:** Contributions to [ArviZ.jl](https://github.com/arviz-devs/arviz)  
-- **LeetCode:** 40+ problems solved (C++)  
+- **LeetCode:** 75+ problems solved (C++)  
 
 ---
 
