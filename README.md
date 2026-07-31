@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sachin Durairaj
+# 👋 Hi, Im Sachin Durairaj
 
 ## 🎓 Computer Science Engineering Student
 
@@ -6,12 +6,12 @@ Currently pursuing B.Tech in Computer Science and Engineering with a focus on pr
 
 ### 🔧 Technical Skills
 
-**Programming Languages:** Python, JavaScript, C++, HTML/CSS  
-**Web Development:** React, Node.js, Express  
-**AI/ML:** TensorFlow, PyTorch, OpenCV, Hugging Face, Whisper, GPT APIs (educational/experimental use)  
-**Databases:** MySQL, MongoDB  
-**Tools:** Git, GitHub, Linux, Docker (basic), VS Code  
-**Others:** NumPy, Pandas, Scikit-learn, Matplotlib  
+**Programming Languages:** Python, JavaScript, C++, HTML/CSS
+**Web Development:** React, Node.js, Express
+**AI/ML:** TensorFlow, PyTorch, OpenCV, Hugging Face, Whisper, GPT APIs (educational/experimental use)
+**Databases:** MySQL, MongoDB
+**Tools:** Git, GitHub, Linux, Docker (basic), VS Code
+**Others:** NumPy, Pandas, Scikit-learn, Matplotlib
 
 ### 💼 Projects & Experience
 
@@ -52,9 +52,9 @@ Currently pursuing B.Tech in Computer Science and Engineering with a focus on pr
 - Quantum computing concepts (introductory level)
 - Cybersecurity fundamentals
 
-### 🤝 Let's Connect
+### 🤝 Lets Connect
 
-I'm always open to discussing collaborative projects, learning opportunities, or seeking guidance in the fields of computer science and software development.
+Im always open to discussing collaborative projects, learning opportunities, or seeking guidance in the fields of computer science and software development.
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SachinDurairaj06)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachindurairaj)
